@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581631036 source:c:\users\gábor\desktop\vasarely\main.cpp
+	"graphics.hpp"
+
+1488256928 c:\users\gábor\desktop\vasarely\include\graphics.hpp
+	<string>
+
