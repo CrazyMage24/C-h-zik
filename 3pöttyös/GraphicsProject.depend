@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1582372869 source:c:\users\gábor\desktop\c++ graphics start\main.cpp
+	"graphics.hpp"
+	<cstdlib>
+	<time.h>
+	<vector>
+	<fstream>
+
+1488256928 c:\users\gábor\desktop\c++ graphics start\include\graphics.hpp
+	<string>
+
+1582985847 source:c:\users\gábor\desktop\képes\main.cpp
+	"graphics.hpp"
+	<cstdlib>
+	<time.h>
+	<vector>
+
+1488256928 c:\users\gábor\desktop\képes\include\graphics.hpp
+	<string>
+
+1582986238 source:c:\users\gábor\desktop\3pöttyös\main.cpp
+	"graphics.hpp"
+	<cstdlib>
+	<time.h>
+	<vector>
+
+1488256928 c:\users\gábor\desktop\3pöttyös\include\graphics.hpp
+	<string>
+
